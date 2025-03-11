@@ -13,8 +13,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Dashboard Cinema",
-  description: "Projeto de gerenciamento de cinema
-  ",
+  description: "Projeto de gerenciamento de cinema ",
 };
 
 export default function RootLayout({ children }) {
